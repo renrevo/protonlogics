@@ -84237,40 +84237,40 @@ label {
   border: 1px solid transparent;
 }
 
-.company-about header {
+.services header {
   background-image: url("../images/covers/cover-8@2x.png");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.company-about header .hero {
+.services header .hero {
   padding-top: 96px;
   padding-bottom: 110px;
 }
-.company-about .about {
+.about-us .about {
   padding-top: 64px;
 }
-.company-about .about-gallery-top, .company-about .about-gallery-bottom {
+.about-us .about-gallery-top, .about-us .about-gallery-bottom {
   display: flex;
 }
-.company-about .about-gallery-top li, .company-about .about-gallery-bottom li {
+.about-us .about-gallery-top li, .about-us .about-gallery-bottom li {
   border-radius: 0.5rem;
 }
-.company-about .about-gallery-top li img, .company-about .about-gallery-bottom li img {
+.about-us .about-gallery-top li img, .about-us .about-gallery-bottom li img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 0.5rem;
 }
-.company-about .about-gallery-top {
+.about-us .about-gallery-top {
   padding-top: 140px;
 }
-.company-about .about-gallery-top li:nth-of-type(1) {
+.about-us .about-gallery-top li:nth-of-type(1) {
   width: 380px;
   height: 460px;
   margin-left: 70px;
 }
-.company-about .about-gallery-top li:nth-of-type(2) {
+.about-us .about-gallery-top li:nth-of-type(2) {
   width: 360px;
   height: 240px;
   margin-left: 25px;
@@ -84278,7 +84278,7 @@ label {
   margin-bottom: 25px;
   margin-top: 120px;
 }
-.company-about .about-gallery-top li:nth-of-type(3) {
+.about-us .about-gallery-top li:nth-of-type(3) {
   width: 440px;
   height: 320px;
   position: absolute;
@@ -84287,41 +84287,41 @@ label {
   margin-bottom: 25px;
   margin-top: 40px;
 }
-.company-about .about-gallery-bottom li:nth-of-type(1) {
+.about-us .about-gallery-bottom li:nth-of-type(1) {
   width: 440px;
   height: 320px;
   margin-top: 25px;
   margin-left: -150px;
 }
-.company-about .about-gallery-bottom li:nth-of-type(2) {
+.about-us .about-gallery-bottom li:nth-of-type(2) {
   width: 210px;
   height: 240px;
   margin-left: 25px;
   margin-top: 25px;
 }
-.company-about .about-gallery-bottom li:nth-of-type(3) {
+.about-us .about-gallery-bottom li:nth-of-type(3) {
   width: 600px;
   height: 420px;
   margin-left: 25px;
   margin-top: -75px;
 }
-.company-about .about-gallery-bottom li.pattern {
+.about-us .about-gallery-bottom li.pattern {
   width: 120px;
   height: 142px;
   margin-top: -80px;
   margin-left: 25px;
 }
-.company-about .about-gallery-bottom li.pattern img {
+.about-us .about-gallery-bottom li.pattern img {
   object-fit: unset;
 }
-.company-about .values {
+.services .values {
   padding-top: 200px;
   padding-bottom: 122px;
 }
-.company-about .values .heading {
+.services .values .heading {
   margin-bottom: 110px;
 }
-.company-about .team {
+.about-us .team {
   padding-top: 200px;
   padding-bottom: 165px;
   background-image: url("../images/covers/cover-7@2x.png");
@@ -84329,41 +84329,41 @@ label {
   background-position: top center;
   background-size: 100%;
 }
-.company-about .team .left {
+.about-us .team .left {
   padding-right: 180px;
 }
-.company-about .team .heading {
+.about-us .team .heading {
   margin-bottom: 40px;
 }
-.company-about .team .team-list-top,
-.company-about .team .team-list-bottom {
+.about-us .team .team-list-top,
+.about-us .team .team-list-bottom {
   border-radius: 12px;
 }
-.company-about .team .team-list-top img,
-.company-about .team .team-list-bottom img {
+.about-us .team .team-list-top img,
+.about-us .team .team-list-bottom img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 20px 50px 0 rgba(15, 24, 44, 0.25);
 }
-.company-about .team .team-list-top {
+.about-us .team .team-list-top {
   display: flex;
 }
-.company-about .team .team-list-top li:nth-of-type(1) {
+.about-us .team .team-list-top li:nth-of-type(1) {
   width: 96px;
   height: 96px;
   margin-top: 70px;
   z-index: 1;
 }
-.company-about .team .team-list-top li:nth-of-type(2) {
+.about-us .team .team-list-top li:nth-of-type(2) {
   width: 64px;
   height: 64px;
   position: absolute;
   margin-left: 170px;
   margin-top: 165px;
 }
-.company-about .team .team-list-top li:nth-of-type(3) {
+.about-us .team .team-list-top li:nth-of-type(3) {
   width: 160px;
   height: 180px;
   margin-top: -60px;
@@ -84372,7 +84372,7 @@ label {
   margin-right: 100px;
   z-index: 1;
 }
-.company-about .team .team-list-top li.blue-circle {
+.about-us .team .team-list-top li.blue-circle {
   width: 32px;
   height: 32px;
   border-radius: 100px;
@@ -84382,7 +84382,7 @@ label {
   margin-right: 85px;
   margin-top: 100px;
 }
-.company-about .team .team-list-top li.gray-circle {
+.about-us .team .team-list-top li.gray-circle {
   width: 24px;
   height: 24px;
   border-radius: 100px;
@@ -84391,88 +84391,88 @@ label {
   margin-top: 155px;
   margin-left: -10px;
 }
-.company-about .team .team-list-bottom {
+.about-us .team .team-list-bottom {
   display: flex;
 }
-.company-about .team .team-list-bottom li:nth-of-type(1) {
+.about-us .team .team-list-bottom li:nth-of-type(1) {
   width: 120px;
   height: 120px;
   margin-top: 118px;
   margin-left: 90px;
   z-index: 1;
 }
-.company-about .team .team-list-bottom li:nth-of-type(2) {
+.about-us .team .team-list-bottom li:nth-of-type(2) {
   width: 96px;
   height: 96px;
   position: absolute;
   margin-left: 350px;
   margin-top: 30px;
 }
-.company-about .team .team-list-bottom li.pattern {
+.about-us .team .team-list-bottom li.pattern {
   width: 86px;
   height: 102px;
   position: absolute;
   margin-top: 90px;
   margin-left: 165px;
 }
-.company-about .team .team-list-bottom li.pattern img {
+.about-us .team .team-list-bottom li.pattern img {
   object-fit: unset !important;
   box-shadow: none;
   border-radius: 0;
 }
-.company-about .customers {
+.services .customers {
   background-image: linear-gradient(to bottom, #f8fbff, rgba(250, 251, 251, 0));
   padding-top: 64px;
   padding-bottom: 144px;
 }
-.company-about .customers .heading {
+.services .customers .heading {
   margin-bottom: 64px;
   padding-right: 100px;
 }
-.company-about .customers-list {
+.services .customers-list {
   display: flex;
   align-items: center;
 }
-.company-about .customers-list li {
+.services .customers-list li {
   margin-right: 58px;
 }
-.company-about .customers-list li:last-child {
+.services .customers-list li:last-child {
   margin-right: 0;
 }
-.company-about .customers-list li img {
+.services .customers-list li img {
   height: 25px;
 }
-.company-about .footer {
+.services .footer {
   padding-top: 128px;
 }
 
 @media (max-width: 575.98px) {
-  .company-about .divider {
+  .services .divider {
     display: none;
   }
-  .company-about .relative svg {
+  .services .relative svg {
     display: none;
   }
-  .company-about header .hero {
+  .services header .hero {
     padding-top: 40px;
     padding-bottom: 64px;
   }
-  .company-about .about .about-gallery-top {
+  .about-us .about .about-gallery-top {
     padding-top: 48px;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(1) {
+  .about-us .about .about-gallery-top li:nth-of-type(1) {
     width: 80px;
     height: 210px;
     margin-left: -40px;
     position: relative;
     margin-right: 0;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(2) {
+  .about-us .about .about-gallery-top li:nth-of-type(2) {
     width: 157px;
     height: 105px;
     margin: 75px 10px 10px;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(3) {
+  .about-us .about .about-gallery-top li:nth-of-type(3) {
     width: 200px;
     height: 140px;
     position: absolute;
@@ -84481,111 +84481,111 @@ label {
     margin-bottom: 25px;
     margin-top: 40px;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(1), .company-about .about .about-gallery-bottom li:nth-of-type(4) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(1), .about-us .about .about-gallery-bottom li:nth-of-type(4) {
     display: none;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(2) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(2) {
     width: 70px;
     height: 105px;
     margin-left: -30px;
     margin-top: 10px;
     position: relative;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(3) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(3) {
     width: 251px;
     height: 183px;
     margin-left: 10px;
     margin-top: -20px;
   }
-  .company-about .values {
+  .services .values {
     padding-top: 80px;
     padding-bottom: 0;
   }
-  .company-about .values .heading {
+  .services .values .heading {
     margin-bottom: 48px;
   }
-  .company-about .team {
+  .about-us .team {
     padding-top: 120px;
     padding-bottom: 82px;
   }
-  .company-about .team .left {
+  .about-us .team .left {
     padding-right: 15px;
     text-align: center;
   }
-  .company-about .team-list-top li:nth-of-type(1) {
+  .about-us .team-list-top li:nth-of-type(1) {
     margin-left: -76px !important;
     margin-top: 110px !important;
   }
-  .company-about .team-list-top li:nth-of-type(2) {
+  .about-us .team-list-top li:nth-of-type(2) {
     margin-left: 80px !important;
     margin-top: 210px !important;
   }
-  .company-about .team-list-top li:nth-of-type(3) {
+  .about-us .team-list-top li:nth-of-type(3) {
     margin-top: 22px !important;
     margin-right: -53px !important;
   }
-  .company-about .team-list-top li.gray-circle, .company-about .team-list-top li.blue-circle {
+  .about-us .team-list-top li.gray-circle, .about-us .team-list-top li.blue-circle {
     display: none;
   }
-  .company-about .team-list-bottom li:nth-of-type(1) {
+  .about-us .team-list-bottom li:nth-of-type(1) {
     margin-left: 10px !important;
   }
-  .company-about .team-list-bottom li:nth-of-type(2) {
+  .about-us .team-list-bottom li:nth-of-type(2) {
     margin-left: 284px !important;
     margin-top: 40px !important;
   }
-  .company-about .team-list-bottom li.pattern {
+  .about-us .team-list-bottom li.pattern {
     margin-left: 90px !important;
   }
-  .company-about .customers {
+  .services .customers {
     padding-bottom: 0;
   }
-  .company-about .customers .heading {
+  .services .customers .heading {
     padding-right: 0;
     margin-bottom: 48px;
     text-align: center;
   }
-  .company-about .customers .content .customers-list {
+  .services .customers .content .customers-list {
     flex-direction: column;
   }
-  .company-about .customers .content .customers-list li {
+  .services .customers .content .customers-list li {
     margin-right: 0;
     margin-bottom: 53px;
   }
-  .company-about .customers .content .customers-list li img {
+  .services .customers .content .customers-list li img {
     height: 30px;
   }
-  .company-about .footer {
+  .services .footer {
     padding-top: 80px;
   }
 }
 @media (min-width: 576px) and (max-width: 767.98px) {
-  .company-about .divider {
+  .services .divider {
     display: none;
   }
-  .company-about .relative svg {
+  .services .relative svg {
     display: none;
   }
-  .company-about header .hero {
+  .services header .hero {
     padding-top: 40px;
     padding-bottom: 64px;
   }
-  .company-about .about .about-gallery-top {
+  .about-us .about .about-gallery-top {
     padding-top: 48px;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(1) {
+  .about-us .about .about-gallery-top li:nth-of-type(1) {
     width: 80px;
     height: 210px;
     margin-left: -40px;
     position: relative;
     margin-right: 0;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(2) {
+  .about-us .about .about-gallery-top li:nth-of-type(2) {
     width: 157px;
     height: 105px;
     margin: 75px 10px 10px;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(3) {
+  .about-us .about .about-gallery-top li:nth-of-type(3) {
     width: 200px;
     height: 140px;
     position: absolute;
@@ -84594,125 +84594,125 @@ label {
     margin-bottom: 25px;
     margin-top: 40px;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(1), .company-about .about .about-gallery-bottom li:nth-of-type(4) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(1), .about-us .about .about-gallery-bottom li:nth-of-type(4) {
     display: none;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(2) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(2) {
     width: 70px;
     height: 105px;
     margin-left: -30px;
     margin-top: 10px;
     position: relative;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(3) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(3) {
     width: 251px;
     height: 183px;
     margin-left: 10px;
     margin-top: -20px;
   }
-  .company-about .values {
+  .services .values {
     padding-top: 80px;
     padding-bottom: 0;
   }
-  .company-about .values .heading {
+  .services .values .heading {
     margin-bottom: 48px;
   }
-  .company-about .team {
+  .about-us .team {
     padding-top: 120px;
     padding-bottom: 82px;
   }
-  .company-about .team .left {
+  .about-us .team .left {
     padding-right: 15px;
     text-align: center;
   }
-  .company-about .team-list-top li:nth-of-type(1) {
+  .about-us .team-list-top li:nth-of-type(1) {
     margin-left: -76px !important;
     margin-top: 110px !important;
   }
-  .company-about .team-list-top li:nth-of-type(2) {
+  .about-us .team-list-top li:nth-of-type(2) {
     margin-left: 80px !important;
     margin-top: 210px !important;
   }
-  .company-about .team-list-top li:nth-of-type(3) {
+  .about-us .team-list-top li:nth-of-type(3) {
     margin-top: 22px !important;
     margin-right: -53px !important;
   }
-  .company-about .team-list-top li.gray-circle, .company-about .team-list-top li.blue-circle {
+  .about-us .team-list-top li.gray-circle, .about-us .team-list-top li.blue-circle {
     display: none;
   }
-  .company-about .team-list-bottom li:nth-of-type(1) {
+  .about-us .team-list-bottom li:nth-of-type(1) {
     margin-left: 10px !important;
   }
-  .company-about .team-list-bottom li:nth-of-type(2) {
+  .about-us .team-list-bottom li:nth-of-type(2) {
     margin-left: 284px !important;
     margin-top: 40px !important;
   }
-  .company-about .team-list-bottom li.pattern {
+  .about-us .team-list-bottom li.pattern {
     margin-left: 90px !important;
   }
-  .company-about .customers {
+  .services .customers {
     padding-bottom: 0;
   }
-  .company-about .customers .heading {
+  .services .customers .heading {
     padding-right: 0;
     margin-bottom: 48px;
     text-align: center;
   }
-  .company-about .customers .content .customers-list {
+  .services .customers .content .customers-list {
     flex-direction: column;
   }
-  .company-about .customers .content .customers-list li {
+  .services .customers .content .customers-list li {
     margin-right: 0;
     margin-bottom: 53px;
   }
-  .company-about .customers .content .customers-list li img {
+  .services .customers .content .customers-list li img {
     height: 30px;
   }
-  .company-about .footer {
+  .services .footer {
     padding-top: 80px;
   }
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
-  .company-about .about .about-gallery-top li:nth-of-type(1) {
+  .about-us .about .about-gallery-top li:nth-of-type(1) {
     width: 180px !important;
     margin-left: -80px !important;
   }
-  .company-about .about .about-gallery-top li:nth-of-type(3) {
+  .about-us .about .about-gallery-top li:nth-of-type(3) {
     margin-right: -310px !important;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(1), .company-about .about .about-gallery-bottom li.pattern {
+  .about-us .about .about-gallery-bottom li:nth-of-type(1), .about-us .about .about-gallery-bottom li.pattern {
     display: none;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(2) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(2) {
     width: 256px !important;
     margin-left: -110px !important;
   }
-  .company-about .about .about-gallery-bottom li:nth-of-type(3) {
+  .about-us .about .about-gallery-bottom li:nth-of-type(3) {
     width: 720px !important;
     margin-right: -100px !important;
   }
-  .company-about .team {
+  .about-us .team {
     padding-top: 120px;
   }
-  .company-about .team .right {
+  .about-us .team .right {
     margin-left: 200px;
     position: relative;
   }
-  .company-about .customers {
+  .services .customers {
     padding-top: 65px;
     padding-bottom: 192px;
   }
-  .company-about .customers .heading {
+  .services .customers .heading {
     margin-bottom: 49px;
   }
-  .company-about .customers .content .customers-list {
+  .services .customers .content .customers-list {
     flex-wrap: wrap;
   }
-  .company-about .customers .content .customers-list li {
+  .services .customers .content .customers-list li {
     width: calc(100% / 5);
     margin-right: 0;
   }
-  .company-about .customers .content .customers-list li .btn {
+  .services .customers .content .customers-list li .btn {
     position: absolute;
     margin-top: 40px;
   }
@@ -84973,7 +84973,7 @@ label {
   box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.03);
 }
 .company-contact .contact-form-detail {
-  background-image: linear-gradient(to bottom, rgba(250, 251, 251, 0), #f8fbff);
+  /* background-image: linear-gradient(to bottom, rgba(250, 251, 251, 0), #f8fbff); */
   padding-top: 142px;
 }
 
@@ -94997,7 +94997,6 @@ header.landing-about .illustration img {
   padding-bottom: 80px;
   padding-left: 40px;
   padding-right: 40px;
-  border-bottom: solid 1px #e5efff;
 }
 .about-us-information .card-f .counter {
   font-size: 48px !important;
