@@ -84063,8 +84063,13 @@ label {
 }
 .footer .footer-widget .description {
   line-height: 28px;
-  margin-bottom: 0;
-  margin-top: 28px;
+  /* margin-bottom: 0; */
+  /* margin-top: 28px; */
+}
+.company-info {
+  margin-top: 24px;
+  display: grid;
+  gap: 8px;
 }
 .footer .footer-widget h5 {
   font-family: "hk_groteskbold", sans-serif;
