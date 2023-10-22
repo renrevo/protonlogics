@@ -1,9 +1,15 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap');
 @import "../fonts/hkgrotesk/stylesheet.css";
+
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans', sans-serif;
+}
 body {
   overflow-x: hidden;
-  font-family: "Open Sans", sans-serif;
 }
 
 html,
@@ -50,6 +56,7 @@ ul {
 .block {
   display: block;
 }
+
 
 @media (max-width: 575.98px) {
   .xs-block {
@@ -84072,7 +84079,6 @@ label {
   gap: 8px;
 }
 .footer .footer-widget h5 {
-  font-family: "hk_groteskbold", sans-serif;
   font-weight: bold !important;
   font-size: 18px;
   margin-bottom: 32px;
@@ -86940,7 +86946,6 @@ main.company-documentation .content .image-big.dashboard {
   justify-content: center;
   align-items: center;
   color: white;
-  font-family: "hk_groteskbold", sans-serif;
   font-weight: bold;
 }
 .services-rent .step .illustration img {
@@ -87405,7 +87410,7 @@ main.company-documentation .content .image-big.dashboard {
   width: 20px;
   height: 20px;
 }
-.services-insurance .benefits {
+.services-insurance .what-we-do {
   padding-top: 64px;
   padding-bottom: 144px;
 }
@@ -87564,15 +87569,15 @@ main.company-documentation .content .image-big.dashboard {
   .services-insurance .quote .card-f-body .meta {
     flex-direction: column;
   }
-  .services-insurance .benefits {
+  .services-insurance .what-we-do {
     padding-top: 160px;
     padding-bottom: 40px;
   }
-  .services-insurance .benefits .heading {
+  .services-insurance .what-we-do .heading {
     margin-bottom: 40px;
     text-align: center;
   }
-  .services-insurance .benefits .card-f {
+  .services-insurance .what-we-do .card-f {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -87716,15 +87721,15 @@ main.company-documentation .content .image-big.dashboard {
   .services-insurance .quote .card-f-body .meta {
     flex-direction: column;
   }
-  .services-insurance .benefits {
+  .services-insurance .what-we-do {
     padding-top: 160px;
     padding-bottom: 40px;
   }
-  .services-insurance .benefits .heading {
+  .services-insurance .what-we-do .heading {
     margin-bottom: 40px;
     text-align: center;
   }
-  .services-insurance .benefits .card-f {
+  .services-insurance .what-we-do .card-f {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -87873,15 +87878,15 @@ main.company-documentation .content .image-big.dashboard {
   .services-insurance .quote .card-f-body .meta {
     flex-direction: column;
   }
-  .services-insurance .benefits {
+  .services-insurance .what-we-do {
     padding-top: 160px;
     padding-bottom: 40px;
   }
-  .services-insurance .benefits .heading {
+  .services-insurance .what-we-do .heading {
     margin-bottom: 40px;
     text-align: center;
   }
-  .services-insurance .benefits .card-f {
+  .services-insurance .what-we-do .card-f {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -92280,7 +92285,7 @@ header.landing-agency .illustration .macbook::before {
 .landing-agency-partner .agency-partner-item img {
   width: 100%;
   height: 100%;
-  object-fit: fill;
+  object-fit: contain;
 }
 
 .landing-agency-wwd {
@@ -108888,30 +108893,30 @@ header.landing-education2 .column-gap {
   margin-left: 22px;
 }
 
-.landing-education2-why {
+.why-choose-us {
   padding-top: 96px;
   padding-bottom: 96px;
 }
-.landing-education2-why .gap {
+.why-choose-us .gap {
   gap: 45px;
 }
-.landing-education2-why .why-card {
+.why-choose-us .why-card {
   width: 350px;
   height: 423px;
   padding: 91px 32px 42px 30px;
   background-color: rgba(179, 186, 197, 0.1);
 }
-.landing-education2-why img {
+/* .why-choose-us img {
   margin-bottom: 40px;
-}
-.landing-education2-why .title {
+} */
+.why-choose-us .title {
   font-size: 28px;
   font-family: "hk_grotesksemibold", sans-serif;
   line-height: 1.29;
   letter-spacing: 0.2px;
   color: #183b56;
 }
-.landing-education2-why .desc {
+.why-choose-us .desc {
   font-size: 16px;
   line-height: 1.75;
   color: #5a7184;
@@ -109159,34 +109164,34 @@ header.landing-education2 .column-gap {
     width: 25px;
   }
 
-  .landing-education2-why {
+  .why-choose-us {
     padding-top: 563px;
     padding-bottom: 72px;
   }
-  .landing-education2-why .container {
+  .why-choose-us .container {
     max-width: 700px;
     padding: 0;
   }
-  .landing-education2-why .section-desc {
+  .why-choose-us .section-desc {
     font-size: 32px !important;
   }
-  .landing-education2-why .gap {
+  .why-choose-us .gap {
     gap: 20px;
   }
-  .landing-education2-why .why-card {
+  .why-choose-us .why-card {
     width: 220px;
     height: 366px;
     padding: 30px;
     padding-left: 20px;
   }
-  .landing-education2-why img {
+  .why-choose-us img {
     width: 42px;
     margin-bottom: 24px;
   }
-  .landing-education2-why .title {
+  .why-choose-us .title {
     font-size: 22px;
   }
-  .landing-education2-why .desc {
+  .why-choose-us .desc {
     font-size: 14px;
   }
 
@@ -109371,34 +109376,34 @@ header.landing-education2 .column-gap {
     width: 25px;
   }
 
-  .landing-education2-why {
+  .why-choose-us {
     padding-top: 563px;
     padding-bottom: 72px;
   }
-  .landing-education2-why .container {
+  .why-choose-us .container {
     max-width: 700px;
     padding: 0 !important;
   }
-  .landing-education2-why .section-desc {
+  .why-choose-us .section-desc {
     font-size: 32px !important;
   }
-  .landing-education2-why .gap {
+  .why-choose-us .gap {
     gap: 20px;
   }
-  .landing-education2-why .why-card {
+  .why-choose-us .why-card {
     width: 220px;
     height: 366px;
     padding: 30px;
     padding-left: 20px;
   }
-  .landing-education2-why img {
+  .why-choose-us img {
     width: 42px;
     margin-bottom: 24px;
   }
-  .landing-education2-why .title {
+  .why-choose-us .title {
     font-size: 22px;
   }
-  .landing-education2-why .desc {
+  .why-choose-us .desc {
     font-size: 14px;
   }
 
@@ -109581,33 +109586,33 @@ header.landing-education2 .column-gap {
     width: 25px;
   }
 
-  .landing-education2-why {
+  .why-choose-us {
     padding-top: 563px;
     padding-bottom: 72px;
   }
-  .landing-education2-why .container {
+  .why-choose-us .container {
     max-width: 100%;
   }
-  .landing-education2-why .section-desc {
+  .why-choose-us .section-desc {
     font-size: 32px !important;
   }
-  .landing-education2-why .gap {
+  .why-choose-us .gap {
     gap: 20px;
   }
-  .landing-education2-why .why-card {
+  .why-choose-us .why-card {
     width: 280px;
     height: auto;
     padding: 24px 10px 26px;
     text-align: center;
   }
-  .landing-education2-why img {
+  .why-choose-us img {
     width: 42px;
     margin-bottom: 16px;
   }
-  .landing-education2-why .title {
+  .why-choose-us .title {
     font-size: 18px;
   }
-  .landing-education2-why .desc {
+  .why-choose-us .desc {
     font-size: 14px;
     margin-top: 14px;
     margin-bottom: 20px;
@@ -109798,35 +109803,35 @@ header.landing-education2 .column-gap {
     width: 25px;
   }
 
-  .landing-education2-why {
+  .why-choose-us {
     padding-top: 819px;
     padding-bottom: 48px;
   }
-  .landing-education2-why .container {
+  .why-choose-us .container {
     max-width: 280px;
     padding: 0;
   }
-  .landing-education2-why .section-desc {
+  .why-choose-us .section-desc {
     font-size: 28px !important;
   }
-  .landing-education2-why .gap {
+  .why-choose-us .gap {
     gap: 18px;
   }
-  .landing-education2-why .why-card {
+  .why-choose-us .why-card {
     width: 280px;
     height: 248px;
     padding: 22px 10px 26px;
     text-align: center;
   }
-  .landing-education2-why img {
+  .why-choose-us img {
     width: 40px;
     margin-bottom: 20px;
   }
-  .landing-education2-why .title {
+  .why-choose-us .title {
     font-size: 18px;
     padding: 0 40px;
   }
-  .landing-education2-why .desc {
+  .why-choose-us .desc {
     font-size: 14px;
     padding: 0 8px;
     margin-top: 14px;
@@ -114862,12 +114867,8 @@ header.landing-crypto .hero img {
     margin-bottom: 36px;
   }
 }
-* {
-  font-family: "hk_groteskbold", sans-serif;
-}
 
 h1 {
-  font-family: "hk_groteskbold", sans-serif;
   font-size: 3.5rem !important;
   font-weight: 700 !important;
   line-height: 4.25rem !important;
@@ -114875,7 +114876,6 @@ h1 {
 }
 
 h2 {
-  font-family: "hk_groteskbold", sans-serif;
   font-size: 2.5rem !important;
   font-weight: 700 !important;
   line-height: 3.25rem !important;
@@ -114883,7 +114883,6 @@ h2 {
 }
 
 h3 {
-  font-family: "hk_groteskbold", sans-serif;
   font-size: 2rem !important;
   font-weight: 700 !important;
   line-height: 2.5rem !important;
@@ -114891,7 +114890,6 @@ h3 {
 }
 
 h4 {
-  font-family: "hk_groteskbold", sans-serif;
   font-size: 1.5rem !important;
   font-weight: 700 !important;
   line-height: 2rem !important;
