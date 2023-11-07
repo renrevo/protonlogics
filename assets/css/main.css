@@ -83087,7 +83087,7 @@ button:focus {
   line-height: 3rem;
 }
 .heading p {
-  font-size: 18px !important;
+  font-size: 16px !important;
 }
 
 .hr {
@@ -84902,7 +84902,7 @@ label {
     padding-bottom: 64px;
   }
   .company-faq .categories .heading h3 {
-    font-size: 18px !important;
+    font-size: 20px !important;
     line-height: normal !important;
   }
   .company-faq .categories .content .card-f {
@@ -84924,7 +84924,7 @@ label {
     padding-bottom: 64px;
   }
   .company-faq .categories .heading h3 {
-    font-size: 18px !important;
+    font-size: 20px !important;
     line-height: normal !important;
   }
   .company-faq .categories .content .card-f {
@@ -84949,7 +84949,7 @@ label {
     padding-bottom: 64px;
   }
   .company-faq .categories .heading h3 {
-    font-size: 18px !important;
+    font-size: 20px !important;
     line-height: normal !important;
   }
   .company-faq .categories .content .card-f {
@@ -90141,7 +90141,7 @@ header.landing-architecture .hero p {
   margin-bottom: 30px;
 }
 .card-with-step-no-img h4 {
-  font-size: 18px !important;
+  font-size: 20px !important;
   line-height: 1.11 !important;
   letter-spacing: 1.13px;
   color: #183b56;
@@ -91272,7 +91272,7 @@ header.landing-travel .content .btn-container .btn {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  font-size: 18px !important;
+  font-size: 20px !important;
   line-height: 1.11 !important;
   letter-spacing: 0.23px;
   color: #183b56;
@@ -95533,7 +95533,7 @@ header.landing-pricing .hero h1 {
   margin: 0 auto 28px;
 }
 header.landing-pricing .hero p {
-  font-size: 18px !important;
+  font-size: 16px !important;
   line-height: 1.78;
   color: #5a7184;
   margin: 0 auto 0;
@@ -100912,7 +100912,7 @@ header.landing-photography .hero .gap.self-start {
   }
   .landing-photography-review .fa-arrow-left,
 .landing-photography-review .fa-arrow-right {
-    font-size: 18px !important;
+    font-size: 20px !important;
   }
   .landing-photography-review .fa-arrow-left:hover,
 .landing-photography-review .fa-arrow-right:hover {
@@ -103389,7 +103389,7 @@ header.landing-saas2 .hero .column-gap {
     line-height: 1.25;
   }
   header.landing-saas2 .hero .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
     padding: 0 26px;
     margin-top: 18px;
     margin-bottom: 42px;
@@ -103611,7 +103611,7 @@ header.landing-saas2 .hero .column-gap {
     font-size: 40px !important;
   }
   .landing-saas2-support .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
   }
   .landing-saas2-support img {
     width: 601px;
@@ -103646,7 +103646,7 @@ header.landing-saas2 .hero .column-gap {
     line-height: 1.25;
   }
   header.landing-saas2 .hero .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
     padding: 0 26px;
     margin-top: 18px;
     margin-bottom: 42px;
@@ -103868,7 +103868,7 @@ header.landing-saas2 .hero .column-gap {
     font-size: 40px !important;
   }
   .landing-saas2-support .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
   }
   .landing-saas2-support img {
     width: 601px;
@@ -103903,7 +103903,7 @@ header.landing-saas2 .hero .column-gap {
     line-height: 1.25;
   }
   header.landing-saas2 .hero .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
     padding: 0 26px;
     margin-top: 18px;
     margin-bottom: 42px;
@@ -104141,7 +104141,7 @@ header.landing-saas2 .hero .column-gap {
     font-size: 40px !important;
   }
   .landing-saas2-support .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
   }
   .landing-saas2-support img {
     width: 576px;
@@ -104951,7 +104951,7 @@ header.landing-saas3 .hero a {
     padding: 0;
   }
   .landing-saas3-collab .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
     width: 525px;
   }
   .landing-saas3-collab img.image {
@@ -105162,7 +105162,7 @@ header.landing-saas3 .hero a {
     padding: 0;
   }
   .landing-saas3-collab .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
     width: 525px;
   }
   .landing-saas3-collab img.image {
@@ -105373,7 +105373,7 @@ header.landing-saas3 .hero a {
     padding: 0;
   }
   .landing-saas3-collab .section-desc {
-    font-size: 18px !important;
+    font-size: 16px !important;
     width: 525px;
   }
   .landing-saas3-collab img.image {
