@@ -84248,6 +84248,33 @@ label {
   border: 1px solid transparent;
 }
 
+.services__list {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+
+.services__content {
+  display: grid;
+  gap: 72px;
+}
+
+.services__image {
+  display: flex;
+  justify-content: center;
+}
+
+.services__photos {
+  width: 326px;
+  height: 360px;
+  border-radius: 0.5rem;
+}
+
+
+
+.services__photos > img {
+  width: 100%;
+}
+
 .services header {
   background-image: url("../images/covers/cover-8@2x.png");
   background-position: top center;
@@ -86985,7 +87012,7 @@ main.company-documentation .content .image-big.dashboard {
   object-fit: cover;
   border-radius: 0.5rem;
 }
-.services-rent .features {
+.services-rent .features  {
   background-image: linear-gradient(to bottom, #f8fbff, rgba(250, 251, 251, 0));
   padding-top: 140px;
   padding-bottom: 160px;
@@ -87052,6 +87079,14 @@ main.company-documentation .content .image-big.dashboard {
 }
 
 @media (max-width: 575.98px) {
+
+  .order__reverse--sm {
+    order: 1
+  }
+  
+  .services__image {
+    margin-top: 40px;
+  }
   .services-rent .tips {
     padding-top: 80px;
     padding-bottom: 40px;
@@ -87159,6 +87194,14 @@ main.company-documentation .content .image-big.dashboard {
   }
 }
 @media (min-width: 576px) and (max-width: 767.98px) {
+
+  .order__reverse--sm {
+    order: 1
+  }
+
+  .services__image {
+    margin-top: 40px;
+  }
   .services-rent .tips {
     padding-top: 80px;
     padding-bottom: 40px;
