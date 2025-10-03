@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="144"><svg width="130" height="144" viewBox="0 0 130 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.57507 101.408H45.1387V131.831C45.1387 138.552 39.6904 144 32.9696 144H4.57507V101.408Z" fill="#0592F0"></path>
+<path d="M64.5796 121.691C98.1837 121.691 125.425 94.45 125.425 60.8459C125.425 27.2419 98.1837 0.000427246 64.5796 0.000427246C34.4305 0.000427246 9.40319 21.928 4.57534 50.705H5.01201C9.51501 33.2096 25.3968 20.2823 44.2977 20.2823C66.7003 20.2823 84.8614 38.4432 84.8614 60.8459C84.8614 83.2486 66.7003 101.41 44.2977 101.41C25.3968 101.41 9.51501 88.4822 5.01201 70.9868H4.57534C9.40319 99.7638 34.4305 121.691 64.5796 121.691Z" fill="#024978"></path>
+<path d="M4.57507 70.9854H37.026V131.831C37.026 138.552 31.5777 144 24.8569 144H4.57507V70.9854Z" fill="#024978"></path>
+<g filter="url(#filter0_d_833_2008)">
+<path d="M125.425 60.8459C125.425 94.45 98.1836 121.691 64.5796 121.691C34.4307 121.691 9.40321 99.7638 4.57534 70.9868H45.5757C50.0787 88.4822 65.9604 101.41 84.8614 101.41C107.264 101.41 125.425 83.2486 125.425 60.8459Z" fill="#0592F0"></path>
+</g>
+<path d="M125.425 60.8455C125.425 27.2415 98.1836 0 64.5796 0C34.4307 0 9.40321 21.9276 4.57534 50.7046H45.5757C50.0787 33.2092 65.9604 20.2818 84.8614 20.2818C107.264 20.2818 125.425 38.4428 125.425 60.8455Z" fill="#0592F0"></path>
+<defs>
+<filter id="SvgjsFilter1005" x="0.518951" y="60.8457" width="128.962" height="68.9584" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="4.05637"></feOffset>
+<feGaussianBlur stdDeviation="2.02818"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_833_2008"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_833_2008" result="shape"></feBlend>
+</filter>
+</defs>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: contrast(1) brightness(1); } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
